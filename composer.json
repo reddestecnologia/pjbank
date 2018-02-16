@@ -20,5 +20,6 @@
         "psr-4": {
             "Reddes\\pjbank\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
