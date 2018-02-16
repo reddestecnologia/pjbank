@@ -3,7 +3,7 @@
 class PJBank{
 
 
-   public function tese(){
+   public function teste(){
 			return "PJBANK";
    }
 }
