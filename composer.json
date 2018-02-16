@@ -9,7 +9,7 @@
             "email": "suporte@reddes.com.br"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
 		"php": ">=5.4"
     },
