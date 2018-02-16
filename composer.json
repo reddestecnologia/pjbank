@@ -1,0 +1,24 @@
+{
+    "name": "Reddes/pjbank-php",
+    "description": "PJBANK PHP",
+    "keywords": ["Reddes", "PJBANK", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reddes Tecnologia e Desenvolvimento",
+            "email": "suporte@reddes.com.br"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "Reddes\\pjbank\\": "src/"
+        }
+    }
+}
